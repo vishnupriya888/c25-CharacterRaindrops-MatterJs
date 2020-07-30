@@ -4,4 +4,4 @@ Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFil
 
 ## Please refer to code notes for explanation.
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/c25-CharacterRaindropd-MatterJs/
+### Output Link : https://vishnupriya-whitehatjr.github.io/c25-CharacterRaindrops-MatterJs/
